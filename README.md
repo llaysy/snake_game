@@ -1,9 +1,9 @@
 # Snake Game in Flutter
 
-![Run Game](assets/images/run_game.png)
+![Run Game](run_game.png)
 *Game Running*
 
-![Game Over](assets/images/game_over.png)
+![Game Over](game_over.png)
 *Game Over Screen*
 
 ## Overview
