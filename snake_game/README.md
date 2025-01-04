@@ -1,4 +1,4 @@
-# Snake Game in Flutter
+# git commit -m "Initial commit" in Flutter
 
 ![Run Game](assets/images/run_game.png)
 *Game Running*
